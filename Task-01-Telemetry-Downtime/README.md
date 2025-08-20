@@ -50,7 +50,7 @@ The objective was to answer two key questions:
 
 ## 🖼️ Screenshots
 <p align="center">
-  <img src="dashboard_view.png" alt="Tableau Dashboard Example" width="700"/>
+  <img src="image.png" alt="Tableau Dashboard Example" width="700"/>
 </p>
 
 ---
