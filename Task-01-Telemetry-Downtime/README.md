@@ -63,4 +63,3 @@ The objective was to answer two key questions:
 
 ---
 
-## 📂 Repository Structure
