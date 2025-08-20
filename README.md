@@ -32,7 +32,7 @@ The program simulated real-world consulting scenarios where I applied **data ana
 ---
 
 ## 📜 Certificate
-[View Deloitte Job Simulation Certificate on Forage]([your_certificate_link_here](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_HafunsQqsFt7tby8H_1755698598326_completion_certificate.pdf))
+[View Deloitte Job Simulation Certificate on Forage]([(https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_HafunsQqsFt7tby8H_1755698598326_completion_certificate.pdf)])
 
 ---
 
