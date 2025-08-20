@@ -39,8 +39,8 @@ The task was to classify each job role into **3 categories** based on its Equali
 ---
 
 ## Excel Dataset
-[Task 5 Equality Table](./Task 5 Equality Table.xlsx)
-– Final version with Equality Class column 
+- [View the updated excel spreadsheet](./equality.xlsx)
+ 
 
 ## 🛠️ Tools & Skills
 - Microsoft Excel (formulas & classification)  
